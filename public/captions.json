@@ -1,0 +1,135 @@
+[
+  {
+    "text": "Welcome",
+    "startMs": 500,
+    "endMs": 880,
+    "timestampMs": 690,
+    "confidence": 1
+  },
+  {
+    "text": " to",
+    "startMs": 940,
+    "endMs": 1320,
+    "timestampMs": 1130,
+    "confidence": 1
+  },
+  {
+    "text": " your",
+    "startMs": 1380,
+    "endMs": 1760,
+    "timestampMs": 1570,
+    "confidence": 1
+  },
+  {
+    "text": " first",
+    "startMs": 1820,
+    "endMs": 2200,
+    "timestampMs": 2010,
+    "confidence": 1
+  },
+  {
+    "text": " 3D",
+    "startMs": 2260,
+    "endMs": 2640,
+    "timestampMs": 2450,
+    "confidence": 1
+  },
+  {
+    "text": " video.",
+    "startMs": 2700,
+    "endMs": 3080,
+    "timestampMs": 2890,
+    "confidence": 1
+  },
+  {
+    "text": " Three.js",
+    "startMs": 3480,
+    "endMs": 3860,
+    "timestampMs": 3670,
+    "confidence": 1
+  },
+  {
+    "text": " renders",
+    "startMs": 3920,
+    "endMs": 4300,
+    "timestampMs": 4110,
+    "confidence": 1
+  },
+  {
+    "text": " the",
+    "startMs": 4360,
+    "endMs": 4740,
+    "timestampMs": 4550,
+    "confidence": 1
+  },
+  {
+    "text": " scene,",
+    "startMs": 4800,
+    "endMs": 5180,
+    "timestampMs": 4990,
+    "confidence": 1
+  },
+  {
+    "text": " Remotion",
+    "startMs": 5240,
+    "endMs": 5620,
+    "timestampMs": 5430,
+    "confidence": 1
+  },
+  {
+    "text": " adds",
+    "startMs": 5680,
+    "endMs": 6060,
+    "timestampMs": 5870,
+    "confidence": 1
+  },
+  {
+    "text": " captions,",
+    "startMs": 6120,
+    "endMs": 6500,
+    "timestampMs": 6310,
+    "confidence": 1
+  },
+  {
+    "text": " audio,",
+    "startMs": 6560,
+    "endMs": 6940,
+    "timestampMs": 6750,
+    "confidence": 1
+  },
+  {
+    "text": " and",
+    "startMs": 7000,
+    "endMs": 7380,
+    "timestampMs": 7190,
+    "confidence": 1
+  },
+  {
+    "text": " exports",
+    "startMs": 7440,
+    "endMs": 7820,
+    "timestampMs": 7630,
+    "confidence": 1
+  },
+  {
+    "text": " the",
+    "startMs": 7880,
+    "endMs": 8260,
+    "timestampMs": 8070,
+    "confidence": 1
+  },
+  {
+    "text": " final",
+    "startMs": 8320,
+    "endMs": 8700,
+    "timestampMs": 8510,
+    "confidence": 1
+  },
+  {
+    "text": " MP4.",
+    "startMs": 8760,
+    "endMs": 9140,
+    "timestampMs": 8950,
+    "confidence": 1
+  }
+]

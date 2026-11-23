@@ -1,0 +1,31 @@
+{
+  "name": "video3d",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "studio": "remotion studio",
+    "render": "remotion render Main3D out/video.mp4",
+    "still": "remotion still Main3D out/still.png --frame=90",
+    "render:aakamabai": "remotion render AaKaMaBaiShort out/aa-ka-ma-bai-short.mp4",
+    "preview": "node tools/preview-stills.mjs"
+  },
+  "dependencies": {
+    "@fontsource/noto-sans-devanagari": "^5.3.0",
+    "@react-three/drei": "^10.7.9",
+    "@react-three/fiber": "^9.8.2",
+    "@remotion/captions": "^4.0.546",
+    "@remotion/cli": "^4.0.546",
+    "@remotion/media-utils": "^4.0.546",
+    "@remotion/three": "^4.0.546",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "remotion": "^4.0.546",
+    "three": "^0.187.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.3.0",
+    "@types/three": "^0.187.0",
+    "typescript": "^7.0.2"
+  }
+}

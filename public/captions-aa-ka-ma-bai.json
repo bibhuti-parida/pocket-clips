@@ -1,0 +1,737 @@
+[
+ {
+  "text": "ओडिशा",
+  "startMs": 80,
+  "endMs": 480,
+  "timestampMs": 280,
+  "confidence": 1
+ },
+ {
+  "text": " में",
+  "startMs": 560,
+  "endMs": 880,
+  "timestampMs": 720,
+  "confidence": 1
+ },
+ {
+  "text": " हर",
+  "startMs": 960,
+  "endMs": 1120,
+  "timestampMs": 1040,
+  "confidence": 1
+ },
+ {
+  "text": " कार्तिक",
+  "startMs": 1200,
+  "endMs": 1560,
+  "timestampMs": 1380,
+  "confidence": 1
+ },
+ {
+  "text": " पूर्णिमा",
+  "startMs": 1600,
+  "endMs": 1960,
+  "timestampMs": 1780,
+  "confidence": 1
+ },
+ {
+  "text": " की",
+  "startMs": 2000,
+  "endMs": 2160,
+  "timestampMs": 2080,
+  "confidence": 1
+ },
+ {
+  "text": " सुबह,",
+  "startMs": 2200,
+  "endMs": 2960,
+  "timestampMs": 2580,
+  "confidence": 1
+ },
+ {
+  "text": " लोग",
+  "startMs": 3040,
+  "endMs": 3280,
+  "timestampMs": 3160,
+  "confidence": 1
+ },
+ {
+  "text": " नदी",
+  "startMs": 3320,
+  "endMs": 3520,
+  "timestampMs": 3420,
+  "confidence": 1
+ },
+ {
+  "text": " पर",
+  "startMs": 3600,
+  "endMs": 3840,
+  "timestampMs": 3720,
+  "confidence": 1
+ },
+ {
+  "text": " दीये",
+  "startMs": 3920,
+  "endMs": 4160,
+  "timestampMs": 4040,
+  "confidence": 1
+ },
+ {
+  "text": " बहाते",
+  "startMs": 4200,
+  "endMs": 4560,
+  "timestampMs": 4380,
+  "confidence": 1
+ },
+ {
+  "text": " हुए",
+  "startMs": 4640,
+  "endMs": 4960,
+  "timestampMs": 4800,
+  "confidence": 1
+ },
+ {
+  "text": " एक",
+  "startMs": 5000,
+  "endMs": 5200,
+  "timestampMs": 5100,
+  "confidence": 1
+ },
+ {
+  "text": " पहेली",
+  "startMs": 5240,
+  "endMs": 5560,
+  "timestampMs": 5400,
+  "confidence": 1
+ },
+ {
+  "text": " गाते",
+  "startMs": 5600,
+  "endMs": 5920,
+  "timestampMs": 5760,
+  "confidence": 1
+ },
+ {
+  "text": " हैं।",
+  "startMs": 5960,
+  "endMs": 6560,
+  "timestampMs": 6260,
+  "confidence": 1
+ },
+ {
+  "text": " आ",
+  "startMs": 6629,
+  "endMs": 6800,
+  "timestampMs": 6715,
+  "confidence": 1
+ },
+ {
+  "text": " का",
+  "startMs": 6880,
+  "endMs": 7000,
+  "timestampMs": 6940,
+  "confidence": 1
+ },
+ {
+  "text": " मा",
+  "startMs": 7040,
+  "endMs": 7200,
+  "timestampMs": 7120,
+  "confidence": 1
+ },
+ {
+  "text": " बै,",
+  "startMs": 7280,
+  "endMs": 7680,
+  "timestampMs": 7480,
+  "confidence": 1
+ },
+ {
+  "text": " पान",
+  "startMs": 8080,
+  "endMs": 8320,
+  "timestampMs": 8200,
+  "confidence": 1
+ },
+ {
+  "text": " गुआ",
+  "startMs": 8400,
+  "endMs": 8640,
+  "timestampMs": 8520,
+  "confidence": 1
+ },
+ {
+  "text": " थोइ,",
+  "startMs": 8720,
+  "endMs": 9600,
+  "timestampMs": 9160,
+  "confidence": 1
+ },
+ {
+  "text": " पान",
+  "startMs": 9640,
+  "endMs": 9920,
+  "timestampMs": 9780,
+  "confidence": 1
+ },
+ {
+  "text": " गुआ",
+  "startMs": 10000,
+  "endMs": 10240,
+  "timestampMs": 10120,
+  "confidence": 1
+ },
+ {
+  "text": " तोर,",
+  "startMs": 10320,
+  "endMs": 11120,
+  "timestampMs": 10720,
+  "confidence": 1
+ },
+ {
+  "text": " मासक",
+  "startMs": 11200,
+  "endMs": 11600,
+  "timestampMs": 11400,
+  "confidence": 1
+ },
+ {
+  "text": " धर्म",
+  "startMs": 11680,
+  "endMs": 12000,
+  "timestampMs": 11840,
+  "confidence": 1
+ },
+ {
+  "text": " मोर।",
+  "startMs": 12080,
+  "endMs": 12480,
+  "timestampMs": 12280,
+  "confidence": 1
+ },
+ {
+  "text": " यह",
+  "startMs": 13440,
+  "endMs": 13600,
+  "timestampMs": 13520,
+  "confidence": 1
+ },
+ {
+  "text": " बोइत",
+  "startMs": 13680,
+  "endMs": 13960,
+  "timestampMs": 13820,
+  "confidence": 1
+ },
+ {
+  "text": " बंदाण",
+  "startMs": 14000,
+  "endMs": 14400,
+  "timestampMs": 14200,
+  "confidence": 1
+ },
+ {
+  "text": " है—",
+  "startMs": 14440,
+  "endMs": 15120,
+  "timestampMs": 14780,
+  "confidence": 1
+ },
+ {
+  "text": " उन",
+  "startMs": 15160,
+  "endMs": 15280,
+  "timestampMs": 15220,
+  "confidence": 1
+ },
+ {
+  "text": " साधबों",
+  "startMs": 15360,
+  "endMs": 15800,
+  "timestampMs": 15580,
+  "confidence": 1
+ },
+ {
+  "text": " की",
+  "startMs": 15840,
+  "endMs": 15960,
+  "timestampMs": 15900,
+  "confidence": 1
+ },
+ {
+  "text": " याद,",
+  "startMs": 16000,
+  "endMs": 16640,
+  "timestampMs": 16320,
+  "confidence": 1
+ },
+ {
+  "text": " जो",
+  "startMs": 16680,
+  "endMs": 16800,
+  "timestampMs": 16740,
+  "confidence": 1
+ },
+ {
+  "text": " कभी",
+  "startMs": 16840,
+  "endMs": 17120,
+  "timestampMs": 16980,
+  "confidence": 1
+ },
+ {
+  "text": " कलिंग",
+  "startMs": 17160,
+  "endMs": 17440,
+  "timestampMs": 17300,
+  "confidence": 1
+ },
+ {
+  "text": " से",
+  "startMs": 17520,
+  "endMs": 17760,
+  "timestampMs": 17640,
+  "confidence": 1
+ },
+ {
+  "text": " बाली",
+  "startMs": 17920,
+  "endMs": 18320,
+  "timestampMs": 18120,
+  "confidence": 1
+ },
+ {
+  "text": " और",
+  "startMs": 18400,
+  "endMs": 18640,
+  "timestampMs": 18520,
+  "confidence": 1
+ },
+ {
+  "text": " जावा",
+  "startMs": 18720,
+  "endMs": 19040,
+  "timestampMs": 18880,
+  "confidence": 1
+ },
+ {
+  "text": " तक",
+  "startMs": 19120,
+  "endMs": 19360,
+  "timestampMs": 19240,
+  "confidence": 1
+ },
+ {
+  "text": " समुद्र",
+  "startMs": 19400,
+  "endMs": 19760,
+  "timestampMs": 19580,
+  "confidence": 1
+ },
+ {
+  "text": " पार",
+  "startMs": 19840,
+  "endMs": 20000,
+  "timestampMs": 19920,
+  "confidence": 1
+ },
+ {
+  "text": " जाते",
+  "startMs": 20080,
+  "endMs": 20320,
+  "timestampMs": 20200,
+  "confidence": 1
+ },
+ {
+  "text": " थे।",
+  "startMs": 20400,
+  "endMs": 21520,
+  "timestampMs": 20960,
+  "confidence": 1
+ },
+ {
+  "text": " आगे",
+  "startMs": 21600,
+  "endMs": 21840,
+  "timestampMs": 21720,
+  "confidence": 1
+ },
+ {
+  "text": " का",
+  "startMs": 21880,
+  "endMs": 22000,
+  "timestampMs": 21940,
+  "confidence": 1
+ },
+ {
+  "text": " हिस्सा",
+  "startMs": 22040,
+  "endMs": 22320,
+  "timestampMs": 22180,
+  "confidence": 1
+ },
+ {
+  "text": " आसान",
+  "startMs": 22400,
+  "endMs": 22800,
+  "timestampMs": 22600,
+  "confidence": 1
+ },
+ {
+  "text": " है:",
+  "startMs": 22840,
+  "endMs": 23520,
+  "timestampMs": 23180,
+  "confidence": 1
+ },
+ {
+  "text": " पान-सुपारी",
+  "startMs": 23560,
+  "endMs": 24320,
+  "timestampMs": 23940,
+  "confidence": 1
+ },
+ {
+  "text": " तुम्हारी…",
+  "startMs": 24360,
+  "endMs": 25360,
+  "timestampMs": 24860,
+  "confidence": 1
+ },
+ {
+  "text": " महीने",
+  "startMs": 25400,
+  "endMs": 25760,
+  "timestampMs": 25580,
+  "confidence": 1
+ },
+ {
+  "text": " भर",
+  "startMs": 25840,
+  "endMs": 25920,
+  "timestampMs": 25880,
+  "confidence": 1
+ },
+ {
+  "text": " का",
+  "startMs": 26000,
+  "endMs": 26160,
+  "timestampMs": 26080,
+  "confidence": 1
+ },
+ {
+  "text": " पुण्य",
+  "startMs": 26240,
+  "endMs": 26560,
+  "timestampMs": 26400,
+  "confidence": 1
+ },
+ {
+  "text": " मेरा।",
+  "startMs": 26720,
+  "endMs": 27760,
+  "timestampMs": 27240,
+  "confidence": 1
+ },
+ {
+  "text": " पर",
+  "startMs": 27832,
+  "endMs": 28080,
+  "timestampMs": 27956,
+  "confidence": 1
+ },
+ {
+  "text": " पहले",
+  "startMs": 28320,
+  "endMs": 28600,
+  "timestampMs": 28460,
+  "confidence": 1
+ },
+ {
+  "text": " चार",
+  "startMs": 28640,
+  "endMs": 28840,
+  "timestampMs": 28740,
+  "confidence": 1
+ },
+ {
+  "text": " शब्द?",
+  "startMs": 28880,
+  "endMs": 29600,
+  "timestampMs": 29240,
+  "confidence": 1
+ },
+ {
+  "text": " आ,",
+  "startMs": 29680,
+  "endMs": 30160,
+  "timestampMs": 29920,
+  "confidence": 1
+ },
+ {
+  "text": " का,",
+  "startMs": 30200,
+  "endMs": 30640,
+  "timestampMs": 30420,
+  "confidence": 1
+ },
+ {
+  "text": " मा,",
+  "startMs": 30680,
+  "endMs": 31120,
+  "timestampMs": 30900,
+  "confidence": 1
+ },
+ {
+  "text": " बै?",
+  "startMs": 31160,
+  "endMs": 31920,
+  "timestampMs": 31540,
+  "confidence": 1
+ },
+ {
+  "text": " रुकिए।",
+  "startMs": 31947,
+  "endMs": 32640,
+  "timestampMs": 32294,
+  "confidence": 1
+ },
+ {
+  "text": " अंदाज़ा",
+  "startMs": 32667,
+  "endMs": 33000,
+  "timestampMs": 32834,
+  "confidence": 1
+ },
+ {
+  "text": " लगाइए।",
+  "startMs": 33040,
+  "endMs": 33600,
+  "timestampMs": 33320,
+  "confidence": 1
+ },
+ {
+  "text": " एक",
+  "startMs": 35280,
+  "endMs": 35440,
+  "timestampMs": 35360,
+  "confidence": 1
+ },
+ {
+  "text": " लोकप्रिय",
+  "startMs": 35520,
+  "endMs": 36000,
+  "timestampMs": 35760,
+  "confidence": 1
+ },
+ {
+  "text": " व्याख्या:",
+  "startMs": 36027,
+  "endMs": 36880,
+  "timestampMs": 36454,
+  "confidence": 1
+ },
+ {
+  "text": " चार",
+  "startMs": 36920,
+  "endMs": 37120,
+  "timestampMs": 37020,
+  "confidence": 1
+ },
+ {
+  "text": " महीनों",
+  "startMs": 37200,
+  "endMs": 37493,
+  "timestampMs": 37347,
+  "confidence": 1
+ },
+ {
+  "text": " के",
+  "startMs": 37520,
+  "endMs": 37680,
+  "timestampMs": 37600,
+  "confidence": 1
+ },
+ {
+  "text": " पहले",
+  "startMs": 37760,
+  "endMs": 38000,
+  "timestampMs": 37880,
+  "confidence": 1
+ },
+ {
+  "text": " अक्षर—",
+  "startMs": 38040,
+  "endMs": 38800,
+  "timestampMs": 38420,
+  "confidence": 1
+ },
+ {
+  "text": " आषाढ़,",
+  "startMs": 38920,
+  "endMs": 39600,
+  "timestampMs": 39260,
+  "confidence": 1
+ },
+ {
+  "text": " कार्तिक,",
+  "startMs": 39640,
+  "endMs": 40400,
+  "timestampMs": 40020,
+  "confidence": 1
+ },
+ {
+  "text": " मार्गशीर्ष,",
+  "startMs": 40440,
+  "endMs": 41360,
+  "timestampMs": 40900,
+  "confidence": 1
+ },
+ {
+  "text": " बैशाख।",
+  "startMs": 41400,
+  "endMs": 42480,
+  "timestampMs": 41940,
+  "confidence": 1
+ },
+ {
+  "text": " पर",
+  "startMs": 42547,
+  "endMs": 42800,
+  "timestampMs": 42674,
+  "confidence": 1
+ },
+ {
+  "text": " स्रोत",
+  "startMs": 42960,
+  "endMs": 43440,
+  "timestampMs": 43200,
+  "confidence": 1
+ },
+ {
+  "text": " आज",
+  "startMs": 43520,
+  "endMs": 43680,
+  "timestampMs": 43600,
+  "confidence": 1
+ },
+ {
+  "text": " भी",
+  "startMs": 43760,
+  "endMs": 43880,
+  "timestampMs": 43820,
+  "confidence": 1
+ },
+ {
+  "text": " इस",
+  "startMs": 43920,
+  "endMs": 44000,
+  "timestampMs": 43960,
+  "confidence": 1
+ },
+ {
+  "text": " पर",
+  "startMs": 44080,
+  "endMs": 44240,
+  "timestampMs": 44160,
+  "confidence": 1
+ },
+ {
+  "text": " एकमत",
+  "startMs": 44320,
+  "endMs": 44640,
+  "timestampMs": 44480,
+  "confidence": 1
+ },
+ {
+  "text": " नहीं।",
+  "startMs": 44720,
+  "endMs": 45520,
+  "timestampMs": 45120,
+  "confidence": 1
+ },
+ {
+  "text": " अर्थ",
+  "startMs": 45589,
+  "endMs": 45840,
+  "timestampMs": 45715,
+  "confidence": 1
+ },
+ {
+  "text": " धुंधला",
+  "startMs": 45920,
+  "endMs": 46320,
+  "timestampMs": 46120,
+  "confidence": 1
+ },
+ {
+  "text": " है…",
+  "startMs": 46400,
+  "endMs": 47120,
+  "timestampMs": 46760,
+  "confidence": 1
+ },
+ {
+  "text": " आवाज़",
+  "startMs": 47200,
+  "endMs": 47573,
+  "timestampMs": 47387,
+  "confidence": 1
+ },
+ {
+  "text": " नहीं।",
+  "startMs": 47600,
+  "endMs": 48400,
+  "timestampMs": 48000,
+  "confidence": 1
+ },
+ {
+  "text": " आपका",
+  "startMs": 48537,
+  "endMs": 48720,
+  "timestampMs": 48629,
+  "confidence": 1
+ },
+ {
+  "text": " जवाब",
+  "startMs": 48800,
+  "endMs": 49040,
+  "timestampMs": 48920,
+  "confidence": 1
+ },
+ {
+  "text": " क्या",
+  "startMs": 49080,
+  "endMs": 49200,
+  "timestampMs": 49140,
+  "confidence": 1
+ },
+ {
+  "text": " था?",
+  "startMs": 49280,
+  "endMs": 49760,
+  "timestampMs": 49520,
+  "confidence": 1
+ },
+ {
+  "text": " कमेंट",
+  "startMs": 49800,
+  "endMs": 50080,
+  "timestampMs": 49940,
+  "confidence": 1
+ },
+ {
+  "text": " में",
+  "startMs": 50107,
+  "endMs": 50187,
+  "timestampMs": 50147,
+  "confidence": 1
+ },
+ {
+  "text": " लिखिए।",
+  "startMs": 50213,
+  "endMs": 50880,
+  "timestampMs": 50547,
+  "confidence": 1
+ }
+]
