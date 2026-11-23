@@ -1,26 +1,11 @@
 import type { Caption } from "@remotion/captions";
-import { AbsoluteFill, Html5Audio, continueRender, delayRender, interpolate, staticFile, useVideoConfig } from "remotion";
+import { AbsoluteFill, Html5Audio, interpolate, staticFile, useVideoConfig } from "remotion";
+import "../../fonts";
 import { Captions } from "../../Captions";
 import captions from "../../../public/captions-aa-ka-ma-bai.json";
 import { RiverScene } from "./RiverScene";
 import { DipToBlack, HINDI, Overlays } from "./Overlays";
 import { SCENES } from "./timeline";
-
-// Load the bundled Devanagari font before any frame is captured.
-const fontHandle = delayRender("Loading Noto Sans Devanagari");
-const face = new FontFace("NotoDeva", `url(${staticFile("fonts/NotoSansDevanagari-800.woff2")}) format("woff2")`, {
-  weight: "100 900",
-});
-face
-  .load()
-  .then((f) => {
-    document.fonts.add(f);
-    continueRender(fontHandle);
-  })
-  .catch((err) => {
-    console.error(err);
-    continueRender(fontHandle);
-  });
 
 export const AaKaMaBaiShort: React.FC = () => {
   const { fps, durationInFrames } = useVideoConfig();

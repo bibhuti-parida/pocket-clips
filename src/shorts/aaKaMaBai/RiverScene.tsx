@@ -405,10 +405,11 @@ const Ship: React.FC<{ a: Assets; t: number }> = ({ a, t }) => {
 // ---------- the whole world ----------
 type FieldBoat = { x: number; z: number; rotY: number; phase: number; spawn: number; speed: number };
 
-export const RiverScene: React.FC = () => {
+/** `atSeconds` renders a fixed moment (used for thumbnails); otherwise follows the timeline. */
+export const RiverScene: React.FC<{ atSeconds?: number }> = ({ atSeconds }) => {
   const frame = useCurrentFrame();
   const { width, height, fps } = useVideoConfig();
-  const t = frame / fps;
+  const t = atSeconds ?? frame / fps;
   const a = useAssets();
 
   const field: FieldBoat[] = useMemo(() => {
