@@ -57,3 +57,38 @@ Boita Bandana, Aa Ka Ma Bai, आ का मा बै, Kartik Purnima, Kartika P
 - Confirm the four-months reading and the line-by-line translation against an Odia source.
 - The description presents the first four words as unresolved, matching the video.
 - Upload on or before Kartik Purnima for the best timing; the topic is seasonal.
+
+---
+
+## English version
+
+### Title (pick one, all under 100 characters)
+
+1. What Does "Aa Ka Ma Bai" Mean? 🪔 Odisha's Unsolved Chant #shorts
+2. 4 Syllables, No Agreed Answer: Aa Ka Ma Bai #BoitaBandana #shorts
+3. The Kartik Purnima Chant Nobody Can Fully Explain #shorts
+
+### Description
+
+```
+"Aa Ka Ma Bai, Pana Gua Thoi, Pana Gua Tora, Masaka Dharma Mora" 🪔
+
+Every Kartik Purnima, before dawn, families across Odisha float tiny lamp-lit boats on rivers and ponds and sing this line. The ritual is Boita Bandana, which remembers the Sadhabas, the seafaring merchants of ancient Kalinga who sailed as far as Bali and Java.
+
+The second half is usually translated as: "Betel leaf and areca nut are placed, the betel and areca are yours, and the merit of the month is mine," the month being Kartika, when many families keep fasts and rituals.
+
+But what do the first four words, "Aa Ka Ma Bai", stand for? One popular explanation says they are the first letters of four months: Ashadha, Kartika, Margashira and Baishakha. Sources still disagree, and there is no single accepted answer.
+
+👇 What's your guess? If your family explains it differently, tell us in the comments.
+
+🔔 Subscribe for more forgotten stories from India's past.
+
+#BoitaBandana #KartikPurnima #Odisha #AaKaMaBai #BaliJatra #Kalinga #OdishaCulture #IndianHistory #shorts
+```
+
+### Pinned comment
+
+```
+What was your answer? 🤔 Aa = ?, Ka = ?, Ma = ?, Bai = ?
+If your family has its own meaning for these words, share it below! 🪔
+```
